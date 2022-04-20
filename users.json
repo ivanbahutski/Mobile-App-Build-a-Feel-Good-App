@@ -1,0 +1,32 @@
+{
+  "user1": {
+    "username": "user1",
+    "password": "password1",
+    "created": "2020-07-07 00:16:28.293901"
+  },
+  "user2": {
+    "username": "user2",
+    "password": "password2",
+    "created": "2020-07-07 00:28:07.315781"
+  },
+  "Bagun": {
+    "username": "Bagun",
+    "password": "qwerty",
+    "created": "2022-04-19 17:12:04"
+  },
+  "Ivan": {
+    "username": "Ivan",
+    "password": "qazxsw",
+    "created": "2022-04-19 17:26:21"
+  },
+  "bagi": {
+    "username": "bagi",
+    "password": "qazxsw",
+    "created": "2022-04-19 18:14:43"
+  },
+  "sfcac": {
+    "username": "sfcac",
+    "password": "ascasc",
+    "created": "2022-04-19 17:44:46"
+  }
+}
